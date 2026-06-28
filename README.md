@@ -4,6 +4,13 @@ Task Manager is a production-quality, responsive task management application bui
 
 ---
 
+## Live Deployments
+
+* **Frontend (Vercel):** [https://task-manager-iota-khaki-32.vercel.app/](https://task-manager-iota-khaki-32.vercel.app/)
+* **Backend API (Render):** [https://task-manager-1fl5.onrender.com](https://task-manager-1fl5.onrender.com)
+
+---
+
 ## Technical Stack
 
 ### Frontend
