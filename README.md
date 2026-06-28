@@ -162,7 +162,6 @@ VITE_API_URL=http://localhost:5050
    * `VITE_API_URL` (your deployed Render service endpoint, e.g., `https://your-service.onrender.com`)
 6. Click **Deploy**.
 
----
+## Preview
 
-## Screenshots Placeholder
-*(Add screenshots showing responsive dashboard grid, Glassmorphic light theme toggle, and CRUD confirmation modals)*
+![Task Manager Dashboard](screenshot.png)
