@@ -85,7 +85,7 @@ All endpoints are mapped to `/tasks` prefix:
 ### Backend (`backend/.env`)
 ```env
 PORT=5050
-MONGO_URI=mongodb://127.0.0.1:27017/taskmanager
+MONGO_URI=mongodb://127.0.0.1:27017/taskmanager (for local instance)
 ```
 
 ### Frontend (`frontend/.env`)
