@@ -10,7 +10,7 @@ const Header = ({ stats, theme, toggleTheme }) => {
             <ClipboardList size={22} />
           </div>
           <div className="brand-text">
-            <h1 className="brand-title">FlowTask</h1>
+            <h1 className="brand-title">Task Manager</h1>
             <p className="brand-subtitle">Organize and manage your daily workflow</p>
           </div>
         </div>

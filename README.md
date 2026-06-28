@@ -1,6 +1,6 @@
-# FlowTask - Full Stack Task Manager
+# Task Manager - Full Stack Application
 
-FlowTask is a production-quality, responsive task management application built with a React frontend and a Node.js/Express backend, backed by MongoDB. It features a premium, glassmorphic dark-mode-first theme with a light mode toggle, real-time statistics dashboard, debounced searching, status/priority filtering, due date sorting, and interactive confirmation pop-ups.
+Task Manager is a production-quality, responsive task management application built with a React frontend and a Node.js/Express backend, backed by MongoDB. It features a premium, glassmorphic dark-mode-first theme with a light mode toggle, real-time statistics dashboard, debounced searching, status/priority filtering, due date sorting, and interactive confirmation pop-ups.
 
 ---
 
